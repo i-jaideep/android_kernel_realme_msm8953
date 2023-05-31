@@ -24,3 +24,4 @@
 	qcom,pmic-id = <0x010016 0x25 0x0 0x0>;
 };
 
+#include "realme/sdm450-pmi632-mtp-s3-realme.dtsi"
